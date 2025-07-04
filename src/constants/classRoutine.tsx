@@ -166,8 +166,8 @@ export const classRoutine = {
     {
       day: "Fri",
       a: [
-        [subjects.sem6.ECom, "315"],
-        [subjects.sem6.TW, "315"],
+        [subjects.sem6.TW, "216"],
+        [subjects.sem6.Compiler, "216"],
         ["*", ""],
         ["*", ""],
       ],
